@@ -1,0 +1,15 @@
+{
+    "name": "alleyinteractive/pusher-for-wordpress",
+    "description": "Integrate the Pusher API into WordPress",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew Boynes",
+            "email": "mboynes@alleyinteractive.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^3.0"
+    }
+}
